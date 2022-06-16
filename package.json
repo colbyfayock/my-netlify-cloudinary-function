@@ -9,6 +9,8 @@
   "author": "",
   "license": "ISC",
   "dependencies": {
-    "lambda-multipart-parser": "^1.0.1"
+    "blurhash": "^1.1.5",
+    "lambda-multipart-parser": "^1.0.1",
+    "sharp": "^0.30.6"
   }
 }
