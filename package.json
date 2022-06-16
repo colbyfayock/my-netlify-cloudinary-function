@@ -10,6 +10,7 @@
   "license": "ISC",
   "dependencies": {
     "blurhash": "^1.1.5",
+    "cloudinary": "^1.30.0",
     "lambda-multipart-parser": "^1.0.1",
     "sharp": "^0.30.6"
   }
