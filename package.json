@@ -8,5 +8,7 @@
   },
   "author": "",
   "license": "ISC",
-  "dependencies": {}
+  "dependencies": {
+    "lambda-multipart-parser": "^1.0.1"
+  }
 }
